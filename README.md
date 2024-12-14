@@ -13,3 +13,12 @@ This project focuses on understanding customer behavior related to chip purchase
 4. Visualization of key metrics
 5. Statistical modeling and hypothesis testing
 
+## Key Analysis Steps 
+1. Data Cleaning & Preparation: Identifying and addressing missing values, outliers, and correcting data formats.
+2. Feature Engineering: Creating new features such as pack size, brand name, and other relevant metrics.
+3. Exploratory Data Analysis (EDA): Analyzing summary statistics, visualizations, and identifying initial insights into purchasing patterns.
+4. Sales Revenue Analysis: Analyzing total sales performance across different stores.
+5.Customer Behavior Insights: Exploring metrics like purchase frequency and customer retention.
+6. Trial Store Evaluation: Comparing trial stores to control stores using metrics like total sales, number of customers, and purchases per customer.
+7. Statistical Testing: Assessing the significance of differences in sales between trial and control stores through hypothesis testing.
+
